@@ -1556,4 +1556,22 @@ input:focus, textarea:focus, select:focus, button:focus {
 .prt_services_slider_wrapper {
     height: 900px;
 }
+.fa:hover {
+  background: #3B5998 !important;
+  color: white;
+}
+
+.fa:hover {
+  background: #00aff0 !important;
+  color: white;
+}
+.fa:hover {
+  background: #007bb5 !important;
+  color: white;
+}
+.fa:hover {
+  background: #cb2027 !important;
+  color: white;  
+}
+
 }
